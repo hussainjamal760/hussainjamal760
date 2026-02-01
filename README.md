@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Hussain Jamal, a passionate Computer Science student and aspiring Full-Stack Developer. I love building projects that solve real-world problems and exploring new technologies along the way.<br><br>I enjoy working with JavaScript, Typescript, Node.js, React, Express, MongoDB, and other modern web technologies. I’m also diving deep into backend development, game development, and data structures & algorithms to strengthen my programming skills.<br><br>I believe in learning by doing, which is why I constantly take on projects of full-stack web .<br><br>Outside coding, I like challenges, problem-solving, and experimenting with new tech, and I love making projects that are not only functional but also fun and interactive.<br><br>Let’s connect and build something amazing! 🚀
+Hi! I’m Hussain Jamal, a passionate Computer Science student and aspiring Full-Stack Developer. I love building projects that solve real-world problems and exploring new technologies along the way.<br><br>I enjoy working with JavaScript, Typescript, Node.js, React, Express, MongoDB, and other modern web technologies. I’m also diving deep into backend development, game development, and data structures & algorithms to strengthen my programming skills.<br><br>I believe in learning by doing, which is why I constantly take on projects of full-stack web .<br><br>Outside coding, I like challenges, problem-solving, and experimenting with new tech, and I love making projects that are not only functional but also fun and interactive.<br><br>Let’s connect and build something amazing!
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@ Hi! I’m Hussain Jamal, a passionate Computer Science student and aspiring Full
 ![](https://nirzak-streak-stats.vercel.app/?user=hussainjamal760&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainjamal760&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hussainjamal760&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
