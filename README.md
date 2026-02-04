@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hi! I’m Hussain Jamal, a passionate Computer Science student and aspiring Full-Stack Developer. I love building projects that solve real-world problems and exploring new technologies along the way.<br><br>I enjoy working with JavaScript, Typescript, Node.js, React, Express, MongoDB, and other modern web technologies. I’m also diving deep into backend development, game development, and data structures & algorithms to strengthen my programming skills.<br><br>I believe in learning by doing, which is why I constantly take on projects of full-stack web .<br><br>Outside coding, I like challenges, problem-solving, and experimenting with new tech, and I love making projects that are not only functional but also fun and interactive.<br><br>Let’s connect and build something amazing!
+Hi! I’m Hussain Jamal, a Computer Science student and aspiring Full-Stack Developer who loves building real-world projects and exploring modern web technologies.
+
+I work primarily with JavaScript, TypeScript, Node.js, React, Express, and MongoDB. Currently, I’m diving deeper into backend development, game development, and Data Structures & Algorithms to strengthen my problem-solving and system design skills.
+
+I strongly believe in learning by doing, which is why I consistently build full-stack projects that are practical, scalable, and interactive.
+
+Beyond coding, I enjoy tackling challenges, experimenting with new technologies, and creating applications that are not only functional but also fun to use.
+
+Let’s connect and build something amazing 
+
 
 
 ## 🌐 Socials:
