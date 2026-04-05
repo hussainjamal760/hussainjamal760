@@ -122,7 +122,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hussainjamal760&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=hussainjamal760&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -140,9 +140,10 @@
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=hussainjamal760&icon=6&color=0)
+![](https://komarev.com/ghpvc/?username=hussainjamal760&color=green&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:58a6ff,100:3ecf8e&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=100&section=footer" width="100%"/>
+
 
 *⚡ Building something amazing — one commit at a time.*
 
