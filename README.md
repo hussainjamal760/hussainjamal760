@@ -2,6 +2,10 @@
 
 <!-- Animated typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Hussain+Jamal+%F0%9F%91%8B;Full-Stack+Developer+%7C+CS+Student;Building+Real+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
+
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Hussain+Jamal+%F0%9F%91%8B;Full-Stack+Developer+%7C+CS+Student;Building+Real+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ecf8e,50:58a6ff,100:a78bfa&height=120&section=header&text=&animation=fadeIn" width="100%"/>
@@ -10,27 +14,32 @@
 
 ---
 
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│                     hussain@dev: ~                           │
-├──────────────────────────────────────────────────────────────┤
-│  $ whoami                                                    │
-│  → Hussain Jamal | CS Student | Full-Stack Developer         │
-│                                                              │
-│  $ cat about.txt                                             │
-│  → Building scalable, real-world apps with MERN stack        │
-│  → Learning by doing — not just reading docs                 │
-│  → Currently grinding DSA, Backend & Game Dev                │
-│                                                              │
-│  $ echo $PHILOSOPHY                                          │
-│  → "Build things. Break things. Fix things. Repeat."         │
-│                                                              │
-│  $ ls current-focus/                                         │
-│  backend-arch/   dsa-mastery/   game-dev/                    │
-│                                                              │
-│  $ echo $STATUS                                              │
-│  → Open to opportunities ● Available for collabs            │
-└──────────────────────────────────────────────────────────────┘
+```typescript
+╔══════════════════════════════════════════════════════════════════╗
+║              hussain@dev  ●  ~/portfolio  ●  zsh                ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  const developer = {                                             ║
+║    name        : "Hussain Jamal",                                ║
+║    title       : "Full-Stack Developer",                         ║
+║    education   : "BS Computer Science",                          ║
+║    location    : "Pakistan  🇵🇰",                                ║
+║                                                                  ║
+║    currentFocus: ["Backend Architecture",                        ║
+║                   "DSA & Problem Solving",                       ║
+║                   "Game Development"],                           ║
+║                                                                  ║
+║    stack       : {                                               ║
+║      frontend  : ["React", "Next.js", "TypeScript", "Tailwind"], ║
+║      backend   : ["Node.js", "Express", "MongoDB", "Redis"],     ║
+║      tools     : ["Git", "Socket.io", "Firebase", "Supabase"],   ║
+║    },                                                            ║
+║                                                                  ║
+║    philosophy  : "Build it. Break it. Fix it. Ship it.",         ║
+║    status      : "Open to opportunities & collabs  ✅",          ║
+║  };                                                              ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -84,46 +93,15 @@
 
 ## 🚀 Currently Focusing On
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
-**⚙️ Backend Architecture**
+| ⚙️ Backend Architecture | 🧠 DSA & Problem Solving | 🎮 Game Development |
+|:---:|:---:|:---:|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | ![JavaScript](https://img.shields.io/badge/JS_Canvas-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) |
+| REST APIs · Auth · Redis | Data Structures · Algorithms | Interactive Apps · Game Logic |
+| Socket.io · Microservices | System Design · Competitive | Creative Coding · Physics |
 
-```
-Node.js • Express
-REST APIs • Auth
-Redis • Socket.io
-Microservices
-```
-
-</td>
-<td width="33%" align="center">
-
-**🧠 DSA & Problem Solving**
-
-```
-Data Structures
-Algorithms
-System Design
-C++ Competitive
-```
-
-</td>
-<td width="33%" align="center">
-
-**🎮 Game Development**
-
-```
-Interactive Apps
-Canvas / WebGL
-Game Logic
-Creative Coding
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
