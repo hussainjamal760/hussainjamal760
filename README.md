@@ -21,11 +21,11 @@
 ║    name        : "Hussain Jamal",                                ║
 ║    title       : "Full-Stack Developer",                         ║
 ║    education   : "BS Computer Science",                          ║
-║    location    : "Pakistan  🇵🇰",                                ║
+║    location    : "Lahore , Pakistan  🇵🇰",                                ║
 ║                                                                  ║
-║    currentFocus: ["Backend Architecture",                        ║
+║    currentFocus: ["Full Stack Architecture",                        ║
 ║                   "DSA & Problem Solving",                       ║
-║                   "Game Development"],                           ║
+║                   "Building Scalable products"],                           ║
 ║                                                                  ║
 ║    stack       : {                                               ║
 ║      frontend  : ["React", "Next.js", "TypeScript", "Tailwind"], ║
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-| ⚙️ Backend Architecture | 🧠 DSA & Problem Solving | 🎮 Game Development |
+| ⚙️ Full Stack Architecture | 🧠 DSA & Problem Solving | 🎮 App Development |
 |:---:|:---:|:---:|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | ![JavaScript](https://img.shields.io/badge/JS_Canvas-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) |
 | REST APIs · Auth · Redis | Data Structures · Algorithms | Interactive Apps · Game Logic |
