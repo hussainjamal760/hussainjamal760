@@ -107,8 +107,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hussainjamal760&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=3ecf8e&title_color=3ecf8e&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainjamal760&layout=compact&theme=github_dark&hide_border=true&title_color=3ecf8e&text_color=c9d1d9&bg_color=0d1117&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hussainjamal760&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainjamal760&theme=radical&hide_border=true" />
 
 <br/>
 
@@ -116,15 +116,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=hussainjamal760&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
 
 ---
 
@@ -139,10 +130,6 @@
 ---
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=hussainjamal760&color=green&style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=100&section=footer" width="100%"/>
 
 
 *⚡ Building something amazing — one commit at a time.*
