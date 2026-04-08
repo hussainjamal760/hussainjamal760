@@ -21,11 +21,11 @@
 ║    name        : "Hussain Jamal",                                ║
 ║    title       : "Full-Stack Developer",                         ║
 ║    education   : "BS Computer Science",                          ║
-║    location    : "Lahore , Pakistan  🇵🇰",                                ║
+║    location    : "Lahore , Pakistan  🇵🇰",                        ║
 ║                                                                  ║
-║    currentFocus: ["Full Stack Architecture",                        ║
+║    currentFocus: ["Full Stack Architecture",                     ║
 ║                   "DSA & Problem Solving",                       ║
-║                   "Building Scalable products"],                           ║
+║                   "Building Scalable products"],                 ║
 ║                                                                  ║
 ║    stack       : {                                               ║
 ║      frontend  : ["React", "Next.js", "TypeScript", "Tailwind"], ║
