@@ -2,7 +2,6 @@
 
 
 
-<!-- Animated typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Hussain+Jamal+%F0%9F%91%8B;Full-Stack+Developer+%7C+CS+Student;Building+Real+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Animated wave banner -->
