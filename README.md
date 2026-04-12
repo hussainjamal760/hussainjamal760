@@ -108,8 +108,7 @@
 <div align="center">
 
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=hussainjamal760&theme=github-dark-blue&hide_border=true&fire=3ecf8e&ring=58a6ff&currStreakLabel=3ecf8e&sideLabels=c9d1d9&dates=7d8590&background=0d1117&stroke=1e2d3d" />
-
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=hussainjamal760&theme=github-dark-blue&hide_border=true" />
 </div>
 
 
