@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Hussain+Jamal+%F0%9F%91%8B;Full-Stack+Developer+%7C+CS+Student;Building+Real+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Hussain+Jamal+%F0%9F%91%8B;Full-Stack+Developer+%7C+CS+Student;%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Animated wave banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ecf8e,50:58a6ff,100:a78bfa&height=120&section=header&text=&animation=fadeIn" width="100%"/>
