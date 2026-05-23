@@ -9,13 +9,21 @@
 
 </div>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNjaWRzd2pnbHRta3V4OWk2dDBnODUzd240NjdvcTl3YWRodTVjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Abishai Kashif banner" width="100%" />
-</p>
 
 ---
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhussainjamal760&style=flat)](https://rankistan.dev)
+
+<div align="center">
+
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhussainjamal760&style=for-the-badge&label=Top%20250%20Pakistan%20Contributors&labelColor=0d1117&color=7c3aed" />
+</a>
+
+<br/><br/>
+
+⚡ Ranked among the **Top 250 GitHub Contributors in Pakistan** 🇵🇰
+
+</div>
 
 
 ```typescript
