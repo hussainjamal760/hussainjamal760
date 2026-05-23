@@ -16,7 +16,7 @@
 <div align="center">
 
 <a href="https://rankistan.dev">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhussainjamal760&style=for-the-badge&label=Top%20250%20Pakistan%20Contributors&labelColor=0d1117&color=7c3aed" />
+  <img src="[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhussainjamal760&style=flat)](https://rankistan.dev)" />
 </a>
 
 <br/><br/>
