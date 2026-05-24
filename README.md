@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-⚡ Ranked among the **Top 250 GitHub Contributors in Pakistan** 🇵🇰
+⚡ Ranked among the **Top GitHub Contributors in Pakistan** 🇵🇰
 
 </div>
 
