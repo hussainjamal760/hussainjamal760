@@ -28,7 +28,7 @@
 
 ```typescript
 ╔══════════════════════════════════════════════════════════════════╗
-║              hussain@dev  ●  ~/portfolio  ●  zsh                ║
+║              hussain@dev  ●  ~/portfolio  ●  zsh                 ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║  const developer = {                                             ║
@@ -48,7 +48,7 @@
 ║    },                                                            ║
 ║                                                                  ║
 ║    philosophy  : "Build it. Break it. Fix it. Ship it.",         ║
-║    status      : "Open to opportunities & collabs  ✅",          ║
+║    status      : "Open to opportunities & collabs ✅",          ║
 ║  };                                                              ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
