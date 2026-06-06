@@ -1,148 +1,100 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&height=70&lines=Hussain+Jamal+—+Full-Stack+Developer;CNCF+OpenTelemetry+Contributor;LoopLab+Hackathon+2026+Winner)](https://git.io/typing-svg)
 
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hello+World!+I'm+Hussain+Jamal+%F0%9F%91%8B;Full-Stack+Developer+%7C+CS+Student;)](https://git.io/typing-svg)
+**Full-Stack MERN Developer** shipping production systems for real users.<br/>
+9 merged PRs across **CNCF OpenTelemetry** and production platforms.<br/>
+Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ecf8e,50:58a6ff,100:a78bfa&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<br/>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussain-jamal-b5a76531a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hussain-portfolio-mern-v1.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjamal9865@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hussain_Jamal)
 
-
----
-
-
-<div align="center">
+<br/>
 
 <a href="https://rankistan.dev">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhussainjamal760&style=flat" />
 </a>
 
-<br/><br/>
-
-⚡ Ranked among the **Top GitHub Contributors in Pakistan** 🇵🇰
-
-</div>
-
-
-```typescript
-╔══════════════════════════════════════════════════════════════════╗
-║              hussain@dev  ●  ~/portfolio  ●  zsh                 ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  const developer = {                                             ║
-║    name        : "Hussain Jamal",                                ║
-║    title       : "Full-Stack Developer",                         ║
-║    education   : "BS Computer Science",                          ║
-║    location    : "Lahore , Pakistan  🇵🇰",                        ║
-║                                                                  ║
-║    currentFocus: ["Full Stack Architecture",                     ║
-║                   "DSA & Problem Solving",                       ║
-║                   "Building Scalable products"],                 ║
-║                                                                  ║
-║    stack       : {                                               ║
-║      frontend  : ["React", "Next.js", "TypeScript", "Tailwind"], ║
-║      backend   : ["Node.js", "Express", "MongoDB", "Redis"],     ║
-║      tools     : ["Git", "Socket.io", "Firebase", "Supabase"],   ║
-║    },                                                            ║
-║                                                                  ║
-║    philosophy  : "Build it. Break it. Fix it. Ship it.",         ║
-║    status      : "Open to opportunities & collabs ✅",          ║
-║  };                                                              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussain-jamal-b5a76531a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjamal9865@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hussain-portfolio-mern-v1.vercel.app/)
-
 </div>
 
 ---
 
-## 💻 Tech Stack
+## What I've Actually Shipped
+
+**Open Source — CNCF OpenTelemetry Ecosystem Explorer** &nbsp;·&nbsp; 5 PRs merged
+
+> Delivered a searchable multi-select filtering system across **250+ instrumentation attributes** used by thousands of developers weekly. Additional PRs improved accessibility and keyboard navigation — all reviewed and merged by CNCF maintainers.
+
+**Open Source — Pathment** (Production Mentorship Platform) &nbsp;·&nbsp; 4 PRs merged
+
+> Built an async bulk-invitation pipeline using **Bull Queue + Upstash Redis** — eliminated synchronous email blocking, handling 1,000+ invites per batch with zero downtime.
+
+---
+
+## Projects in Production
+
+| Project | Stack | Users | Highlights |
+|---|---|---|---|
+| [COMSATS Society Management](https://comsoccomsats.vercel.app) | Next.js 16, Node, MongoDB, Docker, AWS S3 | 250+ | 35% faster APIs via indexing · QR attendance · Gemini AI · RBAC |
+| [Hostelite — Hostel Management](https://hostel-management-frontend-ten.vercel.app) | Next.js 16, React 19, Node, MongoDB, Jest | 200+ | 40% DB perf gain · billing · complaint mgmt · Jest unit tests |
+| [LoopBazar — AI E-Commerce](https://web-hackathon-loop-lab.vercel.app) | Next.js 16, Socket.IO, Stripe, AWS S3 | — | 🏆 LoopLab Hackathon 2026 — 1st Place · real-time chat · multi-vendor |
+
+---
+
+## Tech Stack
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 
 **Backend & Database**
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Languages & DevOps**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+**DevOps & Cloud**
+&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-## 🚀 Currently Focusing On
+## GitHub Stats
 
 <div align="center">
 
-| ⚙️ Full Stack Architecture | 🧠 DSA & Problem Solving | 🎮 App Development |
-|:---:|:---:|:---:|
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-| REST APIs · Auth · Redis | Data Structures · Algorithms | Interactive Apps · And Logic |
-| Socket.io · Microservices | System Design · Competitive | Creative Coding · UI/UX |
+<img width="68%" src="https://streak-stats.demolab.com/?user=hussainjamal760&theme=github-dark-blue&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Achievements
 
-<div align="center">
-
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=hussainjamal760&theme=github-dark-blue&hide_border=true&cache_seconds=1800" />  
-
-
-</div>
-
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hussainjamal760&bg_color=0d1117&color=3ecf8e&line=58a6ff&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+- 🏆 **1st Place** — LoopLab Web Hackathon 2026
+- ⭐ **Top 200** — Rankistan AI GitHub Developer Leaderboard (Pakistan)
+- 🎖️ **Bronze Fellow** — Dev Weekend MERN Fellowship (selected from 800+ applicants)
+- 🔀 **9 Merged PRs** — CNCF OpenTelemetry + Pathment production platform
 
 ---
 
 <div align="center">
 
-
-*⚡ Building something amazing — one commit at a time.*
+*Building things that actually work for people who actually use them.*
 
 </div>
