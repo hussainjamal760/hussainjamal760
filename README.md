@@ -15,6 +15,9 @@ Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjamal9865@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hussain_Jamal)
 
+<img src="https://komarev.com/ghpvc/?username=Hassan136-nust&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+
+
 <br/>
 
 <a href="https://rankistan.dev">
