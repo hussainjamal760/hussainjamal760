@@ -114,17 +114,6 @@ Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hassan136-nust&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
 
 ## GitHub Stats
 
