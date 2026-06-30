@@ -48,33 +48,93 @@ Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 | [LoopBazar — AI E-Commerce](https://web-hackathon-loop-lab.vercel.app) | Next.js 16, Socket.IO, Stripe, AWS S3 | — | 🏆 LoopLab Hackathon 2026 — 1st Place · real-time chat · multi-vendor |
 
 ---
+## 🛠️ Tech Stack
 
-## Tech Stack
+<!-- ─────────────────── LANGUAGES ─────────────────── -->
+### 🔤 Languages
 
-**Frontend**
-&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+<div align="center">
 
-**Backend & Database**
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+| <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript | <img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript | <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python | <img src="https://skillicons.dev/icons?i=cpp" width="40"/><br/>C++ | <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/><br/>PL/SQL |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
-**DevOps & Cloud**
-&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+</div>
+
+<!-- ─────────────────── FRONTEND ─────────────────── -->
+### 🎨 Frontend
+
+<div align="center">
+
+| <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React.js | <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML5 | <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS3 | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<!-- ─────────────────── BACKEND ─────────────────── -->
+### ⚙️ Backend & Databases
+
+<div align="center">
+
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js | <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB | <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL | <img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>Redis |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/><br/>Socket.IO | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/><br/>Nginx | <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28"/><br/>JWT | <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28"/><br/>REST API | <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" height="28"/><br/>WebSockets |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<!-- ─────────────────── CLOUD / DEVOPS ─────────────────── -->
+### ☁️ Cloud & DevOps
+
+<div align="center">
+
+| <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker | <img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>AWS | <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git | <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub | <img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/>Vercel | <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" height="28"/><br/>Render |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<!-- ─────────────────── AI TOOLS ─────────────────── -->
+### 🤖 AI & LLM Tools
+
+<div align="center">
+
+| <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="28"/><br/>Groq LLM | <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="28"/><br/>Gemini AI | <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/><br/>OpenAI | <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" height="28"/><br/>Copilot | <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="28"/><br/>Cursor | <img src="https://img.shields.io/badge/Kiro-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="28"/><br/>Kiro | <img src="https://www.antigravityide.help/logo.png" width="40"/><br/>Antigravity |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<!-- ─────────────────── TOOLS / IDEs ─────────────────── -->
+### 🧰 Tools & IDEs
+
+<div align="center">
+
+| <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code | <img src="https://skillicons.dev/icons?i=pycharm" width="40"/><br/>PyCharm | <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman | <img src="https://skillicons.dev/icons?i=figma" width="40"/><br/>Figma |
+|:---:|:---:|:---:|:---:|
+
+</div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hassan136-nust&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Hassan136-nust&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=0d1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan136-nust&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan136-nust&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hassan136-nust&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
 
 ## GitHub Stats
 
