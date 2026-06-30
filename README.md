@@ -118,17 +118,7 @@ Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 <!--                     GITHUB STATS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hassan136-nust&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Hassan136-nust&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=0d1117" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan136-nust&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan136-nust&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-
-</div>
 
 <div align="center">
 
