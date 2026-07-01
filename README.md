@@ -5,7 +5,7 @@
 <br/>
 
 **Full-Stack MERN Developer** shipping production systems for real users.<br/>
-9 merged PRs across **CNCF OpenTelemetry** and production platforms.<br/>
+10+ merged PRs across **CNCF OpenTelemetry** and production platforms.<br/>
 Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 
 <br/>
