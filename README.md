@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&height=70&lines=Hussain+Jamal+—+Full-Stack+Developer;Open+Source+Contributor;Hackathon+2026+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&height=70&lines=Hussain+Jamal+—+Full-Stack+Developer;Open+Source+Contributor;2x+Hackathon+2026+Winner)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,7 +33,7 @@ Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 
 > Delivered a searchable multi-select filtering system across **250+ instrumentation attributes** used by thousands of developers weekly. Additional PRs improved accessibility and keyboard navigation — all reviewed and merged by CNCF maintainers.
 
-**Open Source — Pathment** (Production Mentorship Platform) &nbsp;·&nbsp; 4 PRs merged
+**Open Source — Pathment** (Production Mentorship Platform) &nbsp;·&nbsp; 7+ PRs merged
 
 > Built an async bulk-invitation pipeline using **Bull Queue + Upstash Redis** — eliminated synchronous email blocking, handling 1,000+ invites per batch with zero downtime.
 
