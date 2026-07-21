@@ -130,7 +130,7 @@ Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 - 🏆 **1st Place** — LoopLab Web Hackathon 2026
 - ⭐ **Top 200** — Rankistan AI GitHub Developer Leaderboard (Pakistan)
 - 🎖️ **Bronze Fellow** — Dev Weekend MERN Fellowship (selected from 800+ applicants)
-- 🔀 **9 Merged PRs** — CNCF OpenTelemetry + Pathment production platform
+- 🔀 **10+ Merged PRs** — CNCF OpenTelemetry + Pathment production platform
 
 ---
 
