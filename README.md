@@ -169,11 +169,6 @@ Full-stack invoice management platform built for the HireOnRank Hackathon. Featu
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainjamal760&theme=react-dark&hide_border=true" width="100%"/>
-
-</div>
 
 ---
 
