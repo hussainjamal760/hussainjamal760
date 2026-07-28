@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0077B5&height=200&section=header&text=Hussain%20Jamal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0077B5&height=200&section=header&text=Hussain%20Jamal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+MERN+Developer;CNCF+OpenTelemetry+Contributor;Hackathon+2026+Winner;Building+Production-Grade+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer;CNCF+OpenTelemetry+Contributor;Hackathon+2026+Winner;Building+Production-Grade+Systems)](https://git.io/typing-svg)
 
 Shipping **production systems for real users** — not just tutorials.<br/>
-**15+ merged PRs** across **CNCF OpenTelemetry** , **CNCF Apicurio Registry** and **Pathment Platform** .<br/>
+**15+ merged PRs** across **CNCF OpenTelemetry**, **CNCF Apicurio Registry** and **Pathment Platform**.<br/>
 📍 Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 
 <br/>
@@ -30,10 +30,16 @@ Shipping **production systems for real users** — not just tutorials.<br/>
 name: "Hussain Jamal"
 role: "Full-Stack Developer"
 focus: ["Distributed Systems", "Developer Tooling", "AI-Integrated Web Apps"]
-recent Build: "AXRAY — AI Agent Observability Platform (OpenTelemetry + SigNoz)"
+recent_build: "AXRAY — AI Agent Observability Platform (OpenTelemetry + SigNoz)"
 open_to: ["Remote Full-Time Roles", "Freelance", "Open Source Collaboration"]
 fun_fact: "I debug production issues faster with coffee ☕ than without"
 ```
+
+---
+
+## 💼 Experience
+
+- 👨‍💻 **Associate Software Engineer** — Loop Developers
 
 ---
 
@@ -85,13 +91,13 @@ Production platform serving **250+ users** with 35% faster APIs via query indexi
 Serving **200+ users** with a 40% database performance gain, automated billing, complaint management, and full Jest unit-test coverage.
 
 </td>
-
 <td width="50%" valign="top">
 
-### ### 🧾 [HireOnRank — Invoice Platform](https://github.com/hussainjamal760/hireonrank-invoice-platform)
+### 🧾 [HireOnRank — Invoice Platform](https://github.com/hussainjamal760/hireonrank-invoice-platform)
 **Stack:** Next.js, Redux Toolkit, Node.js, Express, MongoDB, Groq AI, Cloudinary
 
 Full-stack invoice management platform built for the HireOnRank Hackathon. Features an interactive analytics dashboard (Recharts + React-Leaflet), automated PDF invoice generation, AI-assisted workflows via Groq, direct client emailing (Nodemailer), and secure JWT-protected routes with rate limiting.
+
 </td>
 </tr>
 </table>
@@ -169,16 +175,15 @@ Full-stack invoice management platform built for the HireOnRank Hackathon. Featu
 
 </div>
 
-
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** — LoopLab - Web Hackathon 2026
-- 🥇 **1st Place** — Hire on Rank - Web Hackathon 2026
+- 🥇 **1st Place** — LoopLab Web Hackathon 2026
+- 🥇 **1st Place** — HireOnRank Web Hackathon 2026
 - ⭐ **Top 200** — Rankistan AI GitHub Developer Leaderboard (Pakistan)
 - 🎖️ **Bronze Fellow** — Dev Weekend MERN Fellowship (selected from 800+ applicants)
-- 🔀 **15+ Merged PRs** — CNCF OpenTelemetry + CNFC Apicurio Registry + Pathment production platform
+- 🔀 **15+ Merged PRs** — CNCF OpenTelemetry + CNCF Apicurio Registry + Pathment production platform
 - 🛰️ **Built AXRAY** — OTel-native AI agent observability platform for WeMakeDevs × SigNoz Hackathon
 
 ---
@@ -188,7 +193,7 @@ Full-stack invoice management platform built for the HireOnRank Hackathon. Featu
 - 🧭 **Co-Tech Lead** — LoopLab (University Tech Society)
 - 🧭 **Tech Lead** — CTEC (University Tech Society)
 - 🧭 **Core Member** — Microsoft Learn Student Ambassadors (MLSA)
-- 👨‍🏫 **Instructor — MERN Stack** — Loop Learn
+- 👨‍🏫 **Instructor — Full-Stack Development** — Loop Learn
 
 <div align="center">
 
