@@ -182,7 +182,7 @@ Full-stack invoice management platform built for the HireOnRank Hackathon. Featu
 - 🥇 **1st Place** — HireOnRank Web Hackathon 2026
 - ⭐ **Top 200** — Rankistan AI GitHub Developer Leaderboard (Pakistan)
 - 🎖️ **Bronze Fellow** — Dev Weekend MERN Fellowship (selected from 800+ applicants)
-- 🔀 **15+ Merged PRs** — CNCF OpenTelemetry + CNCF Apicurio Registry + Pathment production platform
+- 🔀 **30+ Merged PRs** — CNCF OpenTelemetry + CNCF Apicurio Registry + Pathment production platform
 - 🛰️ **Built AXRAY** — OTel-native AI agent observability platform for WeMakeDevs × SigNoz Hackathon
 
 ---
