@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer;CNCF+OpenTelemetry+Contributor;Hackathon+2026+Winner;Building+Production-Grade+Systems)](https://git.io/typing-svg)
 
 Shipping **production systems for real users** — not just tutorials.<br/>
-**15+ merged PRs** across **CNCF OpenTelemetry**, **CNCF Apicurio Registry** and **Pathment Platform**.<br/>
+**30+ merged PRs** across **CNCF OpenTelemetry**, **CNCF Apicurio Registry** and **Pathment Platform**.<br/>
 📍 Based in Lahore, Pakistan 🇵🇰 — open to remote opportunities.
 
 <br/>
@@ -48,11 +48,11 @@ fun_fact: "I debug production issues faster with coffee ☕ than without"
 
 > Delivered a searchable multi-select filtering system across **250+ instrumentation attributes** used by thousands of developers weekly. Additional PRs improved accessibility and keyboard navigation — all reviewed and merged by CNCF maintainers.
 
-**Open Source — CNCF Apicurio Registry** &nbsp;·&nbsp; 3+ PRs merged
+**Open Source — CNCF Apicurio Registry** &nbsp;·&nbsp; 4 PRs merged
 
 > Contributed 3 merged PRs to Apicurio, including a critical security fix for a file-upload vulnerability that could have allowed malicious file uploads — patched and merged by maintainers.
 
-**Open Source — Pathment** (Production Mentorship Platform) &nbsp;·&nbsp; 7+ PRs merged
+**Open Source — Pathment** (Production Mentorship Platform) &nbsp;·&nbsp; 15+ PRs merged
 
 > Built an async bulk-invitation pipeline using **Bull Queue + Upstash Redis** — eliminated synchronous email blocking, handling 3,000+ invites per batch with zero downtime.
 
