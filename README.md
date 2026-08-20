@@ -50,7 +50,7 @@ fun_fact: "I debug production issues faster with coffee ☕ than without"
 
 **Open Source — CNCF Apicurio Registry** &nbsp;·&nbsp; 4 PRs merged
 
-> Contributed 3 merged PRs to Apicurio, including a critical security fix for a file-upload vulnerability that could have allowed malicious file uploads — patched and merged by maintainers.
+> Contributed 5 merged PRs to Apicurio, including a critical security fix for a file-upload vulnerability that could have allowed malicious file uploads — patched and merged by maintainers.
 
 **Open Source — Pathment** (Production Mentorship Platform) &nbsp;·&nbsp; 15+ PRs merged
 
